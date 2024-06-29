@@ -1,3 +1,2 @@
 Third file text
-
-Changed in the main branch
+Content change in the dev branch
